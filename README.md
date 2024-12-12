@@ -64,7 +64,7 @@ The **Smart City Design - Amaravati** project is an innovative initiative aimed 
 
 Feel free to get in touch with us if you have any queries or want to collaborate:
 
-- **manjunath Nagalapur** – [Email](mailto:prasanna.kothari@example.com)
-- **Anup Mallannavar** – [Email](mailto:praful.kanaka@example.com)
-- **Mohit Belgavi** – [Email](mailto:prateek.ariga@example.com)
-- **Samarth Bellad** – [Email](mailto:shreyas.mahajan@example.com)
+- **manjunath Nagalapur** – [Email](mailto:manjunath.nagalapur@example.com)
+- **Anup Mallannavar** – [Email](mailto:anup.mallannavar@example.com)
+- **Mohit Belgavi** – [Email](mailto:mohit.belgavi@example.com)
+- **Samarth Bellad** – [Email](mailto:samarth.bellad@example.com)
