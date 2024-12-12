@@ -47,7 +47,7 @@ Click the names for individual business cases:
 
 ## Project Overview
 
-The **Smart City Design - Amaravati** project is an innovative initiative aimed at designing a modern, sustainable city by focusing on key areas like Agriculture, Energy, Industry, Transportation, Infrastructure, and Tourism. We apply algorithmic problem-solving techniques to tackle real-world challenges in these sectors and contribute to the sustainable development of the city.
+The **Smart City Design - KONOHA** project is an innovative initiative aimed at designing a modern, sustainable city by focusing on key areas like Agriculture, Energy, Industry, Transportation, Infrastructure, and Tourism. We apply algorithmic problem-solving techniques to tackle real-world challenges in these sectors and contribute to the sustainable development of the city.
 
 ---
 
