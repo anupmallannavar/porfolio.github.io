@@ -5,10 +5,10 @@
 
 Hello, We are:
 
-- **Prasanna P Kothari**
-- **Praful S Kanaka**
-- **Prateek A Ariga**
-- **Shreyas S Mahajan** 👋
+- **Manjunath Nagalapur**
+- **Anup Mallannavar**
+- **Mohit Belgavi**
+- **Samarth Bellad** 👋
 
 We are passionate about technology and problem-solving. Here's a glimpse of our work:
 
@@ -17,7 +17,7 @@ We are passionate about technology and problem-solving. Here's a glimpse of our 
 ## 🛠️ Projects
 
 ### Project 1: Designing a Sustainable Modern City
-**Smart City Design - Amaravati**
+**Smart City Design - KONOHA**
 
 ---
 
@@ -34,10 +34,10 @@ We are passionate about technology and problem-solving. Here's a glimpse of our 
 
 Click the names for individual business cases:
 
-- **Prasanna P Kothari** (01FE23BCS126) - *Agriculture and Tourism*
-- **Praful S Kanaka** (01FE23BCS072) - *Energy and Education*
-- **Prateek A Ariga** (01FE23BCS203) - *Industry and Transportation*
-- **Shreyas S Mahajan** (01FE23BCS206) - *Infrastructure*
+- **Manjunath Nagalapur** (01FE23BCS147) - *Agriculture and Tourism*
+- **Anup Mallannavar** (01FE23BCS007) - *Energy and Education*
+- **Mohit Belgavi** (01FE23BCS028) - *Industry and Transportation*
+- **Samarth Bellad** (01FE23BCS016) - *Infrastructure*
 
 ---
 
