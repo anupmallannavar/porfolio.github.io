@@ -1,5 +1,5 @@
 # porfolio.github.io
-# Smart City Design - Amaravati
+# Smart City Design - KONOHA
 
 ## Course Introduction
 
