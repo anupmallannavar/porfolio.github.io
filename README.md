@@ -41,7 +41,6 @@ Click the names for individual business cases:
 
 ---
 
-> "The only way to do great work is to love what you do." – Steve Jobs
 
 ---
 
